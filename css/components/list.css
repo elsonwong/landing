@@ -1,0 +1,13 @@
+.list-inline > li {
+  display: flex;
+}
+
+.list-inline a {
+  color: #00ff0d;
+}
+
+.cards-container {
+  display:flex;
+  justify-content:space-around;
+
+}

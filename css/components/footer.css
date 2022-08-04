@@ -1,0 +1,25 @@
+
+.footer {
+  align-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.footer ul {
+  list-style: none;
+  /* display: flex;
+  justify-content:space-between; */
+}
+/* .footer > banner-footer > li {
+  display: flex;
+  justify-content:space-around;
+} */
+
+.footer li {
+  display: inline-block;
+  padding: 10px;
+}
+
+.footer .fas {
+  color: #BF0F12;
+}

@@ -1,0 +1,23 @@
+.banner-homepage {
+  background-image: url("../../images/background.png");
+  background-size:cover;
+  background-position: center;
+  padding: 200px;
+}
+
+.banner-homepage h1 {
+  color: white;
+  /* text-shadow: 0 0 3 rgba(0,0,0, 0.3); */
+}
+
+.banner-homepage p {
+  color: grey;
+  /* text-shadow: 0 0 3 rgba(0,0,0, 0.5); */
+  margin: 50px 0px;
+}
+
+.banner-footer {
+  background-color: rgb(0, 0, 0);
+  padding: 50px;
+  color:white;
+}
